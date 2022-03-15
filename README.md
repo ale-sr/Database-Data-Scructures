@@ -1,19 +1,8 @@
-# BASE DE DATOS 2 
-## Proyecto 1 
-
-## Integrantes ✒️
-
-- Juan Pablo Lozada [IWeseI] Participación: 100%
-- Alexandra Shulca [Alexandra-SR] Participación: 100%
-- Alex Loja Zumaeta [aljozu] Participación: 100%
+# BASE DE DATOS  
 
 ## Profesor 🦾
 
 - Heider Sanchez Enriquez
-
-## Asistentes de docencia
-- Juan Galvez Ccopa
-
 
 ## Introducción :dart:
 
